@@ -20,5 +20,6 @@ DELETE /api/users/:id: Removes a user from the list based on their id.
 The server runs on port 8000. In short, it's a complete, self-contained example of a RESTful API for managing user data.
 
 OUTPUT :
+
 ![Screenshot 2025-06-24 185042](https://github.com/user-attachments/assets/559ae877-c929-47cd-aa9f-790b3a4d42d2)
 ![Screenshot 2025-06-24 185042](https://github.com/user-attachments/assets/559ae877-c929-47cd-aa9f-790b3a4d42d2)
